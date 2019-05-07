@@ -1,1 +1,1 @@
-Exploratory Data Analysis of IMDB dataset and To predict the IMDB rating using Machine Learning algorithm.
+Ojective: Exploratory Data Analysis of IMDb dataset and to predict the IMDb rating using Machine Learning algorithm.
